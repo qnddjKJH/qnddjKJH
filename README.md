@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&color=0:1D976C,100:93F9B9&height=300&section=header&text=Welcome&desc=My%20boongDev%20Profile&descAlign=70&descAlignY=65&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=300&section=header&text=Welcome&desc=My%20boongDev%20Profile&descAlign=70&descAlignY=65&fontSize=90)
 
 
   어제보다 나은 오늘을<br>
