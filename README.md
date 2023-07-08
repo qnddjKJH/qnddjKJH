@@ -2,11 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=300&section=header&text=Welcome&desc=My%20boongDev%20Profile&descAlign=70&descAlignY=65&fontSize=90)
 
+### 🍀 다양함과 새로움을 추구하는 개발자입니다.
 
-  어제보다 나은 오늘을<br>
-  오늘보다 더 나은 내일을 꿈꾸며<br>
-  새로움을 추구하고 문제 해결을 좋아하는 <br><br>
-  🍀 주니어 개발자 김종훈(boongDev)입니다.<br>
+끊임없이 배우며, <br>
+새로움을 추구하고, <br>
+다양함으로 완성하기
 </p>
 <br>
 </div>
